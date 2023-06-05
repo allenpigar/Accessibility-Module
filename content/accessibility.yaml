@@ -1,0 +1,25 @@
+- id: "/accessibility"
+  web:
+    metaDescription: "Kin is committed to providing an equal and positive web experience. Learn how to get in touch with us to better meet your needs."
+    metaTitle: "Web Accessibility"
+    metaKeywords: null
+    metaLinkText: "Accessibility"
+    pathPart: "accessibility"
+    path: "/accessibility/"
+    parent: "/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "Web Accessibility"
+    sub_header: "Learn about our mission to create to an accessible web experience and how to get in touch with us to better meet your needs."
+    featured_image: "3-f894a7e-34smlg"
+    is_feature_clipped: null
+    featured_image_alt: null
+    schemamarkup: null
+    body: "<h2 id=\"ourcommitmenttoinclusion\">Our Commitment to Inclusion</h2>\n<p>Kin is committed to ensuring everyone has an equal and positive experience while using our software and website. Our efforts to improve digital accessibility and usability are ongoing and tested on a periodic basis. These tests include individuals with disabilities and various forms of assistive technology to meet accessibility standards.</p>\n<p>If you are a user with a disability, or an individual assisting a user with a disability, and have difficulty accessing or navigating our site, you can contact us two ways:</p>\n<ul>\n<li><strong>Email us at</strong> <a href=\"mailto:accessibility@kin.com\"><strong>accessibility@kin.com</strong></a><strong>.</strong> In your message, please provide your contact information, the web address or other location where you experienced difficulty, and a brief description of the problem you encountered. Please include the type of assistive technology you were using when you experienced difficulty.</li>\n<li><strong>Give us a call at</strong> <a href=\"tel:8552167674\"><strong>855-216-7674</strong></a><strong>.</strong> Our customer support team is available Monday to Friday from 7 am to 7 pm CT.</li>\n</ul>\n<p>We aim to respond promptly to all accessibility concerns.</p>"
